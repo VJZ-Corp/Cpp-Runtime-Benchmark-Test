@@ -6,7 +6,7 @@ This program is designed to be used as a CLI utility tool. That means you cannot
 
 > **benchmark --start**
 
-From there, you can follow the instructions of the program. Use **benchmark /help** for more information.
+From there, you can follow the instructions within the program. Use **benchmark /help** for more information.
 
 <h1>Download</h1>
 The source code of this program is proprietary, so only release binaries are posted here. Do not clone the repository, instead, click on benchmark.exe and click "View Raw", your file should automatically begin downloading.
