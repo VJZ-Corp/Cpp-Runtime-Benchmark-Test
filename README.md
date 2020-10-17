@@ -9,4 +9,4 @@ This program is designed to be used as a CLI utility tool. That means you cannot
 From there, you can follow the instructions within the program. Use **benchmark /help** for more information. We recommend you to put benchmark.exe in your C:/Users/_YOURNAME_ folder. Because command prompt's default directory is your user directory, accessing this .exe file will be easy and will require no directory changing.
 
 <h1>Download</h1>
-The source code of this program is proprietary, so only release binaries are posted here. Do not clone the repository, instead, click on benchmark.exe and click "View Raw", your file should automatically begin downloading.
+The source code of this program is proprietary, so only release binaries are posted here. Do not clone the repository; instead, click on benchmark.exe and click "View Raw", your file should automatically begin downloading.
